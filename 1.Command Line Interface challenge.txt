@@ -1,0 +1,14 @@
+1. mkdir  newfolder
+(mkdir 	 Create the DIRECTORY(ies), if they do not already exist.)
+
+ls -a 	
+(ls	List information about the FILEs (the current directory by default).)
+( -a, --all                  list all files also hidden files)
+
+2. mkdir -p myusername/these/folders/are/just/for/fun
+  (mkdir 	 Create the DIRECTORY(ies), if they do not already exist.)
+ (-p, --parents     no error if existing, make parent directories as needed)
+
+3.echo -n "second line" >> filename.txt
+(echo		 writes its arguments to the standard output. )
+(-n 		Suppresses the trailing newline that is normally appended to each line of output)
